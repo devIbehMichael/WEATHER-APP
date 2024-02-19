@@ -1,0 +1,30 @@
+.body{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.location{
+    font-size: 50px;
+}
+.temp{
+    font-size: 80px;
+}
+.description{
+    font-size: 35px;
+}
+.buttom{
+    display: flex;
+    margin-top: 70px;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+}
+.buttom p{
+    margin-left: 40px;
+}
+.date { 
+    font-size: 40px;
+    margin-top: 30px;
+}
